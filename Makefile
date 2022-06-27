@@ -1,3 +1,6 @@
+CC=gcc
+DESTDIR=/usr/
+
 rzy: rzy.c
 	$(CC) rzy.c -o rzy
 install:
