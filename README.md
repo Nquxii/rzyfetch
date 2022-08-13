@@ -5,8 +5,8 @@ sysinfo in the terminal, written in C
 
 ## Setup
 ```
-$ git clone https://github.com/Nquxii/rzyfetch
-$ cd rzyfetch
-$ sudo make install
+git clone https://github.com/Nquxii/rzyfetch
+cd rzyfetch
+sudo make install
 ```
 now you can use `rzy` from `/usr/bin`
